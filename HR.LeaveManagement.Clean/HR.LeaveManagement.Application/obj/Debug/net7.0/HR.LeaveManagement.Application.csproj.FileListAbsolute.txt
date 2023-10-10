@@ -1,0 +1,15 @@
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.deps.json
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CopyComplete
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\refint\HR.LeaveManagement.Application.dll
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Git\HR_LeaveManagement_Clean_1\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\ref\HR.LeaveManagement.Application.dll
