@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {}
+    "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {}
   },
   "projects": {
-    "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+    "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectUniqueName": "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "projectName": "HR.LeaveManagement.Application",
-        "projectPath": "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectPath": "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "packagesPath": "C:\\Users\\chung\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\obj\\",
+        "outputPath": "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,15 +27,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "\\\\192.168.1.214\\share\\1_ViewflexSW\\ViewFlex_2.0.4_To_Future\\Packages(Nuget_repository)": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-                "projectPath": "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+              "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+                "projectPath": "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
               }
             }
           }
@@ -83,14 +82,14 @@
         }
       }
     },
-    "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+    "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectPath": "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\chung\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\HR_LeaveManagement_Clean_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
+        "outputPath": "C:\\Git\\dotnetcore_study_udemy_1\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,7 +105,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "\\\\192.168.1.214\\share\\1_ViewflexSW\\ViewFlex_2.0.4_To_Future\\Packages(Nuget_repository)": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
