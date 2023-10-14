@@ -23,6 +23,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.CreateLeave
         public async Task<int> Handle(CreateLeaveTypeCommand request, CancellationToken cancellationToken)
         {
             // Validate incoming data;
+            var validator = new CreateLeaveTypeCommandValidator(_leaveTypeRepository);
 
             
             // convert to domain object
