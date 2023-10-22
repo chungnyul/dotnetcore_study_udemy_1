@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <Folder Include="Features\LeaveAllocation\Commands\DeleteLeaveAllocation\" />
-    <Folder Include="Features\LeaveAllocation\Commands\UpdateLeaveAllocation\" />
   </ItemGroup>
 
 </Project>
