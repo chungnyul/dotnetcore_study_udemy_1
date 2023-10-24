@@ -15,7 +15,12 @@ namespace HR.LeaveManagement.Application.MappingProfiles
         public LeaveTypeProfile()
         {
             CreateMap<LeaveTypeDto, LeaveType>().ReverseMap();
+            // LeaveTypeDto는 dto객체 : Id, Name, DefaultDays
+            // LeaveType은 domani 객체 : Name, DefaultDays
+
             CreateMap<LeaveType, LeaveTypeDetailsDto>();
+            // LeaveType은 domain 객체: Name, DefaultDays
+            // LeaveTypeDetailsDto는 dto객체 : Id, Name, DefaultDays, DateCreated, DateModified
         }
     }
 }

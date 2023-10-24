@@ -16,10 +16,18 @@ namespace HR.LeaveManagement.Application.MappingProfiles
     {
         public LeaveAllocationProfile()
         {
+            //
             CreateMap<LeaveAllocationDto, LeaveAllocation>().ReverseMap();
+            // LeaveAllocationDto : Id, NumberOfDays, LeaveType, LeaveTypeId, Period
+            // LeaveAllocation : NumberOfDays, LeaveType, LeaveTypeId, Period, EmployeeId
+
             CreateMap<LeaveAllocation, LeaveAllocationDetailsDto>();
+            // LeaveAllocation : NumberOfDays, LeaveType, LeaveTypeId, Period, EmployeeId
+            // LeaveAllocationDetailsDto : Id, NumberOfDays, LeaveType, LeaveTypeId, Period
+
             CreateMap<CreateLeaveAllocationCommand, LeaveAllocation>();
-            
+            // CreateLeaveAllocationCommand : LeaveTypeId
+            // LeaveAllocation : NumberOfDays, LeaveType, LeaveTypeId, Period, EmployeeId
         }
     }
 }
