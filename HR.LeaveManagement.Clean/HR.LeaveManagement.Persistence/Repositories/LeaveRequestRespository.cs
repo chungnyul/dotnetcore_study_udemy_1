@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Persistence.Repositories
 {
-    public class LeaveRequestRespository : GenericRepository<LeaveRequest>, ILeaveRequesteRepository
+    public class LeaveRequestRespository : GenericRepository<LeaveRequest>, ILeaveRequestRepository
     {
         public LeaveRequestRespository(HrDatabaseContext context) : base(context)
         {
