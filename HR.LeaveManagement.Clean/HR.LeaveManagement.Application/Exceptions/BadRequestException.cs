@@ -26,6 +26,6 @@ namespace HR.LeaveManagement.Application.Exceptions
         }
 
         //public List<string> ValidationErrors { get; set; }
-        public IDictionary<string, string[]> ValidationErrors { get; set; };
+        public IDictionary<string, string[]> ValidationErrors { get; set; }
     }
 }
